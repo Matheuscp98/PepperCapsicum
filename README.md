@@ -23,9 +23,9 @@ This repository is part of the research study:
 
 | File Name               | Description                                  |
 |-------------------------|----------------------------------------------|
-| [`capsicum_full_data.csv`](https://github.com/Matheuscp98/PepperCapsicum/blob/main/capsicum_full_data.csv)  | Main dataset in CSV format.                   |
-| [`capsicum_full_data.xlsx`](https://github.com/Matheuscp98/PepperCapsicum/blob/main/capsicum_full_data.xlsx) | Same dataset in Excel format.                |
-| [`README.md`](https://github.com/Matheuscp98/PepperCapsicum/blob/main/README.md)               | This documentation file.                     |
+| [capsicum_full_data.csv](https://github.com/Matheuscp98/PepperCapsicum/blob/main/capsicum_full_data.csv)  | Main dataset in CSV format.                   |
+| [capsicum_full_data.xlsx](https://github.com/Matheuscp98/PepperCapsicum/blob/main/capsicum_full_data.xlsx) | Same dataset in Excel format.                |
+| [README.md](https://github.com/Matheuscp98/PepperCapsicum/blob/main/README.md)               | This documentation file.                     |
 
 ---
 
