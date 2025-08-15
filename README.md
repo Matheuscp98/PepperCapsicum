@@ -14,8 +14,7 @@ This repository includes the dataset files (capsicum_full_data.csv and capsicum_
 
 This repository is part of the research study:
 
-- **Discriminating Planted Capsicum Spp. Varieties via Machine Learning and Multivariate Data Reduction**  
-  *(The dataset is from this work. Manuscript currently under review)*
+-  *(The dataset is from this work. Manuscript currently under review)*
 
 ---
 
