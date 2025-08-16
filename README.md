@@ -14,7 +14,7 @@ This repository includes the dataset files (capsicum_full_data.csv and capsicum_
 
 This repository is part of the research study:
 
--  *(The dataset is from this work. Manuscript currently under review)*
+-  *Manuscript currently under peer review*
 
 ---
 
