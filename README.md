@@ -7,8 +7,8 @@ This repository contains **datasets** related to a **pepper database** of specie
 The **dataset** was obtained through **experimental cultivation** and detailed **phenotypic characterization** of **17 pepper varieties**.
 
 This repository includes the dataset files:  
-- [**capsicum_full_data.csv**](capsicum_full_data.csv)  
-- [**capsicum_full_data.xlsx**](capsicum_full_data.xlsx)  
+- [**Capsicum Data (csv file)**](capsicum_full_data.csv)  
+- [**Capsicum Data (Excel file)**](capsicum_full_data.xlsx)  
 
 ---
 
@@ -24,8 +24,8 @@ This repository is part of the **research study**:
 
 1. **Clone or download** this repository to your **local machine**.  
 2. **Open** the dataset file:  
-   - Use [**capsicum_full_data.csv**](capsicum_full_data.csv) with tools such as **Python (pandas)**, **R**, or any software that supports CSV.  
-   - Or use [**capsicum_full_data.xlsx**](capsicum_full_data.xlsx) directly in **Excel**.  
+   - Use [**Capsicum Data (csv file)**](capsicum_full_data.csv) with tools such as **Python (pandas)**, **R**, or any software that supports CSV.  
+   - Or use [**Capsicum Data (Excel file)**](capsicum_full_data.xlsx)  directly in **Excel**.  
 3. **Analyze** the dataset applying your preferred **statistical** or **machine learning** methods (e.g., clustering, classification, or factor analysis).  
 4. The dataset can be integrated into **Jupyter Notebooks**, **R scripts**, or other **data science pipelines** for reproducible experiments.  
 
@@ -33,9 +33,10 @@ This repository is part of the **research study**:
 
 | File Name               | Description                                  |
 |-------------------------|----------------------------------------------|
-| [capsicum_full_data.csv](https://github.com/Matheuscp98/PepperCapsicum/blob/main/capsicum_full_data.csv)  | Main dataset in CSV format.                   |
-| [capsicum_full_data.xlsx](https://github.com/Matheuscp98/PepperCapsicum/blob/main/capsicum_full_data.xlsx) | Same dataset in Excel format.                |
-| [README.md](https://github.com/Matheuscp98/PepperCapsicum/blob/main/README.md)               | This documentation file.                     |
+| [**README**](README.md)               | This documentation file.                     |
+| [**Capsicum Data (csv file)**](capsicum_full_data.csv)   | Main dataset in CSV format.                   |
+| [**Capsicum Data (Excel file)**](capsicum_full_data.xlsx)  | Same dataset in Excel format.                |
+
 
 ---
 
