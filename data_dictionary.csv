@@ -1,22 +1,22 @@
-﻿Variable Code;Variable Description
-x1;Crown Diameter
-x2;Leaf Shape
-x3;Fruit Diameter
-x4;Fruit Shape
-x5;Stem Diameter
-x6;Intermediary Fruit Color
-x7;Pericarp Thickness
-x8;Leaf Size
-x9;Fresh Matter
-x10;Fruit Weight
-x11;Branch Density
-x12;Corolla Color
-x13;Ripe Fruit Color
-x14;Dry Matter
-x15;Fruit Height
-x16;Stem Length
-x17;Immature Fruit Color
-x18;Corolla Diameter
-x19;Fruit Length
-x20;Seeds/fruit
-y;Species
+Variable Code,Variable Description
+x1,Crown Diameter
+x2,Leaf Shape
+x3,Fruit Diameter
+x4,Fruit Shape
+x5,Stem Diameter
+x6,Intermediary Fruit Color
+x7,Pericarp Thickness
+x8,Leaf Size
+x9,Fresh Matter
+x10,Fruit Weight
+x11,Branch Density
+x12,Corolla Color
+x13,Ripe Fruit Color
+x14,Dry Matter
+x15,Fruit Height
+x16,Stem Length
+x17,Immature Fruit Color
+x18,Corolla Diameter
+x19,Fruit Length
+x20,Seeds/fruit
+y,Species
