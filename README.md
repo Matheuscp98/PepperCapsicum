@@ -4,7 +4,7 @@
 
 This repository contains **datasets** related to a **pepper database** of species from the **Capsicum genus** (**C. frutescens** and **C. chinense**), based on **morphological** and **agronomic descriptors**.
 
-The **dataset** was obtained through **experimental cultivation** and detailed **phenotypic characterization** of **17 pepper varieties**.
+The **data** were obtained through **experimental cultivation** and detailed **phenotypic characterization** of **17 pepper varieties**.
 
 This repository includes the dataset files:  
 - [**Capsicum Data (csv file)**](capsicum_full_data.csv)  
