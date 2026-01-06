@@ -14,9 +14,16 @@ This repository includes the dataset files:
 
 ## 📚 Publications
 
-This repository is part of the **research study**:
+In addition to ongoing manuscripts, the following public papers are already available:
 
-- *Manuscript currently under **peer review***  
+- **Discriminating Planted Capsicum Spp. Varieties via Machine Learning and Multivariate Data Reduction**  
+  [Read here](https://www.icck.org/article/abs/tmi.2025.385133)
+- **Data Preprocessing Strategies for Performance Optimization in Machine Learning Models: A Case Study on Capsicum Species Classification**  
+  [Read here](https://www.abepro.org.br/biblioteca/TN_ST_426_2093_50740.pdf)
+- **Combination of PCFA and DOE in a Hybrid Approach for Feature Selection in Machine Learning Models**  
+  [Read here](https://proceedings.science/sbpo/sbpo-2025/trabalhos/combination-of-pcfa-and-doe-in-a-hybrid-approach-for-feature-selection-in-machin?lang=pt-br)
+- **Classification of Pepper Characteristics Using ANOVA and Machine Learning Models** (*Classificação de Características de Pimentas com ANOVA eModelos de Machine Learning*)  
+  [Read here](https://www.abepro.org.br/biblioteca/TN_ST_426_2093_51304.pdf) 
 
 ---
 
