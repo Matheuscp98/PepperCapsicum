@@ -36,6 +36,8 @@ In addition to ongoing manuscripts, the following public papers are already avai
 3. **Analyze** the dataset applying your preferred **statistical** or **machine learning** methods (e.g., clustering, classification, or factor analysis).  
 4. The dataset can be integrated into **Jupyter Notebooks**, **R scripts**, or other **data science pipelines** for reproducible experiments.  
 
+---
+
 ## 📁 Files
 
 | File Name               | Description                                  |
