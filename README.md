@@ -22,7 +22,7 @@ In addition to ongoing manuscripts, the following public papers are already avai
   [Read here](https://www.abepro.org.br/biblioteca/TN_ST_426_2093_50740.pdf)
 - **Combination of PCFA and DOE in a Hybrid Approach for Feature Selection in Machine Learning Models**  
   [Read here](https://proceedings.science/sbpo/sbpo-2025/trabalhos/combination-of-pcfa-and-doe-in-a-hybrid-approach-for-feature-selection-in-machin?lang=pt-br)
-- **Classification of Pepper Characteristics Using ANOVA and Machine Learning Models** (*Classificação de Características de Pimentas com ANOVA eModelos de Machine Learning*)  
+- **Classification of Pepper Characteristics Using ANOVA and Machine Learning Models** (*Classificação de Características de Pimentas com ANOVA e Modelos de Machine Learning*)  
   [Read here](https://www.abepro.org.br/biblioteca/TN_ST_426_2093_51304.pdf) 
 
 ---
